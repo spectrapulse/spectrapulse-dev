@@ -10,7 +10,7 @@ permissions:
 jobs:
   build:
     name: Build image
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     strategy:
       fail-fast: true
       matrix:
@@ -47,7 +47,7 @@ jobs:
           tags: ${{ steps.image-metadata.outputs.tags }}
 
   merge:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     needs: [ build ]
     env: 
       IMAGE: ghcr.io/spectrapulse/spectrapulse-dev
