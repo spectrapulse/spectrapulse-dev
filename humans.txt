@@ -1,13 +1,5 @@
 /* TEAM */
-Developer: Tyrone Faulhaber
-Site: https://spectrapulse.io
-Twitter/X: @spectrapulse
-Discord: @spectrapulse
-Telegram: https://t.me/spectrapulse
-GitHub: https://github.com/spectrapulse
-GitLab: https://gitlab.com/spectrapulse
-Ko-Fi: https://ko-fi.com/spectrapulse
-Location: Randstad, The Netherlands
+Developer: spectrapulse
 
 /* SITE */
 Last update: 2024-05-01
