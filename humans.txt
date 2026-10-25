@@ -2,8 +2,8 @@
 Developer: spectrapulse
 
 /* SITE */
-Last update: 2024-05-01
+Last update: 2026-10-25
 Language: English
-Standards: HTML5, CSS3, ES2022
-Components: CloudFlare, Font Awesome, Google Fonts
+Standards: HTML5, CSS3
+Components: Cloudflare Web Analytics, Font Awesome (icons), Fira (fonts)
 Software: Visual Studio Code

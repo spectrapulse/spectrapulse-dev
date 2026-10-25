@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://www.spectrapulse.io/sitemap.xml
+Sitemap: https://www.spectrapulse.dev/sitemap.xml
